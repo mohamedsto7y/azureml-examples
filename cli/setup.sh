@@ -25,7 +25,7 @@ az extension add -n ml -y
 
 ## For backward compatibility - running on old subscription
 # <set_variables>
-GROUP="azureml-examples"
+GROUP="coursera"
 LOCATION="eastus"
 WORKSPACE="main"
 # </set_variables>
